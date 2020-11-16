@@ -1,6 +1,6 @@
+Hi,
 
-
-I am a software developer. Here are some of the things I'm interested in:
+My name is Christof Jans. I am a software developer. Here are some of the things I'm interested in:
 
 * C#
 * ASP.NET
