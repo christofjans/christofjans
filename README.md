@@ -1,4 +1,6 @@
-I am a software developer. Some of the things I'm interested in:
+
+
+I am a software developer. Here are some of the things I'm interested in:
 
 * C#
 * ASP.NET
@@ -10,6 +12,10 @@ I am a software developer. Some of the things I'm interested in:
 * VS Code
 * Windows Terminal
 
+
+📫 How to reach me: [christofjans@gmail.com](mailto:christofjans@gmail.com)
+
+---
 
 ![](./csharp.png) ![](./terminal.png) ![](./ts.png) ![](./blazor.png) ![](./sql.png) ![](./vscode.png)
 
