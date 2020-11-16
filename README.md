@@ -10,6 +10,9 @@ I am a software developer. Some of the things I'm interested in:
 * VS Code
 * Windows Terminal
 
+
+![](./csharp.png) ![](./terminal.png) ![](./ts.png) ![](./blazor.png) ![](./sql.png) ![](./vscode.png)
+
 <!--
 **christofjans/christofjans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
